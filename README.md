@@ -1,9 +1,23 @@
 ```
-bài 1
-```
-bài 2
-```
-bài 3
-```
-ảnh kết quả
-```
+.
+├── test/
+│   ├── .idea/
+│   ├── out/
+│   ├── src/
+│   │   └── Ex1/
+│   │       ├── Main.java
+│   │       ├── Student.java
+│   │       └── studentManager.java
+│   ├── .gitignore
+│   └── test.iml
+│
+└── test3/
+    ├── .idea/
+    ├── out/
+    ├── src/
+    │   ├── Main.java
+    │   ├── Main.class
+    │   ├── Student.java
+    │   └── Student.class
+    ├── .gitignore
+    └── test3.iml
